@@ -23,7 +23,7 @@ python minimize.py $DATA_DIR
 ```
 
 ## Evaluation
-Download our [trained model] (https://drive.google.com/file/d/1vjNBFBAGVOJ0Pyy6A-NX3gaOswjCIE6X/view?usp=sharing)
+Download our [trained model](https://drive.google.com/file/d/1vjNBFBAGVOJ0Pyy6A-NX3gaOswjCIE6X/view?usp=sharing).
 
 and run:
 ```
